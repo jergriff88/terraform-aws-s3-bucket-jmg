@@ -25,3 +25,6 @@ module "s3_bucket" {
 |------|-------------|
 | bucket_id | The name of the bucket |
 | bucket_arn | The ARN of the bucket |
+
+## Update Version 1.1.0 Changes
+    - Updated project documents
